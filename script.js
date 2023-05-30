@@ -6,7 +6,7 @@ const classmates = [
   { name: "Sevilla,Cristina.", website: "https://kurisuteina.github.io/XOXO/" },
   { name: "Indig,Rica G.", website: "https://ricaindig.github.io/portfolio/" },
   { name: "Osabel,Kate Alexis S.", website: "https://ktlxosbl.github.io/PORTFOLIO/" },
-  { name: "Camacho, Merry Jean.", website: "https://mjcamacho26.github.io/" },
+  { name: "Camacho, Merry Jean.", website: "https://mjcamacho26.github.io/mjcamacho2023/" },
   { name: "Parawan,Arianne.", website: "https://enn4ira.github.io/arianne/" },
   { name: "Sanoy, Sheila .", website: "https://sanoylovesyou.github.io/PORTFOLIO/" },
   { name: "Ruben, Merzi.", website: "https://merzrubs.github.io/Chii-Portfolio/" },
